@@ -1,0 +1,47 @@
+﻿@model IEnumerable<RingoMediaAssignment.Models.Department>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Departments</h1>
+
+<form asp-action="SelectDepartment" method="post" class="form-inline mb-3">
+    <select name="id" class="form-control mr-2">
+        <option value="">-- Select Parent Department --</option>
+        @foreach (var department in Model)
+        {
+            <option value="@department.Id">@department.Name</option>
+        }
+    </select>
+    </br>
+    <input type="submit" value="Select" class="btn btn-primary" />
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Logo</th>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td><img src="@department.Logo" alt="Department Logo" class="img-thumbnail" style="max-width: 80px;" /></td>
+                <td>@department.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@department.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@department.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@department.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Department</a>
+

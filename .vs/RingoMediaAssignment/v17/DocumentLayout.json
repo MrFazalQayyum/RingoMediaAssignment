@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubRepos\\RingoMediaAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\ringomediaassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\ringomediaassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\reminders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\reminders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\reminders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\reminders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\reminders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\reminders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\reminders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\reminders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\reminders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\reminders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\controllers\\reminderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\controllers\\reminderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|d:\\githubrepos\\ringomediaassignment\\ringomediaassignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0620A8-E9D1-4C48-B6BD-457AABF1C52C}|RingoMediaAssignment\\RingoMediaAssignment.csproj|solutionrelative:ringomediaassignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T17:16:51.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T13:08:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:47:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RingoMediaAssignment.csproj",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\RingoMediaAssignment.csproj",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\RingoMediaAssignment.csproj",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\RingoMediaAssignment.csproj",
+              "RelativeToolTip": "RingoMediaAssignment\\RingoMediaAssignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T10:36:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Models\\Reminder.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Models\\Reminder.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Models\\Reminder.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Models\\Reminder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:31:48.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Models\\Department.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Models\\Department.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Models\\Department.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:31:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Services\\EmailService.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Services\\EmailService.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:52:27.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReminderService.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Services\\ReminderService.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Services\\ReminderService.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Services\\ReminderService.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Services\\ReminderService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:56:08.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:59:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\appsettings.json",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\appsettings.json",
+              "RelativeToolTip": "RingoMediaAssignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T11:18:32.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T13:07:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "RingoMediaAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T19:32:08.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAiwLcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:46:34.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:25:51.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Index.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Reminders\\Index.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Index.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Reminders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:02:24.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Reminders\\Edit.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Edit.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Reminders\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:02:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Details.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Reminders\\Details.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Details.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Reminders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:02:31.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Reminders\\Delete.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Delete.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Reminders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:02:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Create.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Reminders\\Create.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Reminders\\Create.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Reminders\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:02:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RemindersController.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Controllers\\RemindersController.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Controllers\\RemindersController.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Controllers\\RemindersController.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Controllers\\RemindersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:39:56.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:45:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:29:34.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Program.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Program.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:35:33.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\DAL\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:37:02.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:29:19.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RingoMediaAssignment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:29:48.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RingoMediaAssignment\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T11:27:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:04:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RingoMediaAssignment\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\GitHubRepos\\RingoMediaAssignment\\RingoMediaAssignment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RingoMediaAssignment\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:30:57.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

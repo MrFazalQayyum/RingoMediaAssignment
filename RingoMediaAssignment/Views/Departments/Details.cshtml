@@ -1,0 +1,26 @@
+﻿@model RingoMediaAssignment.Models.Department
+@{
+    ViewData["Title"] = "Department Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<img src="@Model.Logo" alt="Department Logo" class="img-thumbnail" style="max-width: 100px;" />
+<h2>@Model.Name</h2>
+
+<h3>Sub-Departments</h3>
+<ul>
+    @foreach (var subDepartment in Model.SubDepartments)
+    {
+        <li>@subDepartment.Name  | <a asp-action="Details" asp-route-id="@subDepartment.Id">Detail</a></li>
+    }
+</ul>
+
+<h3>Parent Departments</h3>
+<ul>
+    @foreach (var parent in ViewBag.ParentDepartments)
+    {
+        <li>@parent.Name  | <a asp-action="Details" asp-route-id="@parent.Id">Detail</a></li>
+    }
+</ul>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
